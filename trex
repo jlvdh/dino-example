@@ -3,3 +3,11 @@ trex.eatSmallerDinosaur(){
 }
 
 phoneOtherDinoSaur();
+A new Trex
+A new trex here:.....
+function newTrex(){
+   alert('checking the function')
+   return trex 
+}
+
+
