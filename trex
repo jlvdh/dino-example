@@ -1,3 +1,8 @@
+trex.eatSmallerDinosaur(){
+  nomnom()
+}
+
+phoneOtherDinoSaur();
 A new Trex
 A new trex here:.....
 function newTrex(){
