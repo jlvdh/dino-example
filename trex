@@ -1,2 +1,5 @@
-A new Trex
-A new trex here:.....
+trex.eatSmallerDinosaur(){
+  nomnom()
+}
+
+phoneOtherDinoSaur();
